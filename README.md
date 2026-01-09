@@ -53,7 +53,7 @@ Built with MESA’s visualization tools, the dashboard includes:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 * `model.py`: Contains the core logic for the `TraderAgent` and `ExchangeModel` (matching engine and data collection).
 * `server.py`: Defines the visualization interface, custom HTML dashboards, and user-adjustable sliders.
@@ -61,7 +61,7 @@ Built with MESA’s visualization tools, the dashboard includes:
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 * Python 3.8+
